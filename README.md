@@ -26,7 +26,7 @@ Working with data often means switching between different formats and tools. You
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/md-to-excel-converter.git
+   git clone https://github.com/jcguevarag/md-to-excel-converter.git
    cd md-to-excel-converter
    ```
 
@@ -39,7 +39,7 @@ Working with data often means switching between different formats and tools. You
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/md-to-excel-converter.git
+   git clone https://github.com/jcguevarag/md-to-excel-converter.git
    cd md-to-excel-converter
    ```
 
