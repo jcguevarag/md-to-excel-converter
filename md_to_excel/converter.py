@@ -13,7 +13,7 @@ Dependencies:
 Usage:
     python md_to_excel.py -i input.md -o output.xlsx
 
-Author: Your Name
+Author: Juan C. Guevara G. (supported by AI)
 Version: 1.0.0
 """
 
